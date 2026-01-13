@@ -1,5 +1,5 @@
 # Estafa de Wallapop
-Este supositorio es para advertir a las personas para que no caigan en las estafas en Wallapop.
+Este repositorio es para advertir a las personas para que no caigan en las estafas en Wallapop.
 ## En que consiste?
 Consiste en que la víctima esta vendiendo una bicicleta y el estafador se hace pasar por un comprador e intenta engañar
 a la víctima haciendole pensar que está muy interesado. Entonces, la víctima entra en confianza y el estafador le
