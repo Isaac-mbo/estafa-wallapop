@@ -1,12 +1,22 @@
 # Estafa de Wallapop
 Este repositorio es para advertir a las personas para que no caigan en las estafas en Wallapop.
 ## En que consiste?
-Consiste en que la víctima esta vendiendo una bicicleta y el estafador se hace pasar por un comprador e intenta engañar
-a la víctima haciendole pensar que está muy interesado. Entonces, la víctima entra en confianza y el estafador le
-dice que si pueden hablar por otra app como Whatsapp para enviarle a la víctima un enlace que ponga el pago está
-hecho y solo falta confirmar el pago haciendo que la víctima entre mediante ese enlace y que entre por una página
-web falsa que sirve para que la víctima introduzca sus datos de la tarjeta y así el estafador le roba dinero y desaparece.
-Wallapop nunca envía enlaces externos ni pide datos bancarios fuera de la app, por lo que si ocurre esto, se trata de una estafa.
+### Paso 1
+El estafador contacta con la víctima haciéndose pasar por un comprador interesado en un producto publicado en Wallapop.
+### Paso 2
+El estafador muestra mucho interés, acepta el precio rápidamente y gana la confianza del vendedor.
+### Paso 3
+El estafador dice que ya ha realizado el pago y que solo falta confirmarlo para que el dinero llegue.
+### Paso 4
+El estafador pide continuar la conversación por WhatsApp.
+### Paso 5
+Por WhatsApp, el estafador envía un enlace, diciendo que es para confirmar el pago de Wallapop.
+### Paso 6
+La víctima entra en el enlace y accede a una página web falsa que imita a Wallapop.
+### Paso 7
+La víctima cree que está confirmando el cobro, pero en realidad introduce los datos de su tarjeta y envía dinero al estafador.
+### Paso 8
+El estafador desaparece, bloquea a la víctima y esta se queda sin el dinero y sin contacto.
 
 ## Enlaces
 1: https://ayuda.wallapop.com/hc/es-es/articles/360005310418--C%C3%B3mo-puedo-identificar-un-comportamiento-sospechoso-o-estafa?utm_source=chatgpt.com
